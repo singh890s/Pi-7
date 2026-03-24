@@ -1,0 +1,5 @@
+{
+  "name": "Pi7 Image Resizer Clone",
+  "description": "A powerful image resizing and compression tool that allows users to resize images to specific dimensions (CM) and compress them to a target file size (KB).",
+  "requestFramePermissions": []
+}
